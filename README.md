@@ -9,3 +9,6 @@
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
+
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonBSF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
